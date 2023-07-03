@@ -30,3 +30,21 @@ This repository contains code snippets and important notes and acts as a quick r
     - Defining and assigning a value to variable
     - changing the variable value
     - naming convention of python variables
+
+# primitive datatypes in python
+    - Refer 5-primitive-data-types.py for code snippet
+    - Dynamic and Strongly typed language
+    - string
+    - int
+    - float
+    - bool
+    - type() function
+    - TypeError example which shows how python is a strongly typed language
+    - type conversion example
+
+# f-strings in Python
+    - Refer 6-fstrings.py for code snippets
+    - f-strings can help in constructing string without type conversion
+
+# python projects
+    - BMI calculator: 1-bmi-calculator.py
